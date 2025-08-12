@@ -1,0 +1,103 @@
+<!doctype html>
+<html>
+<head>
+  <meta charset="utf-8" />
+  <title>Zenchain Testnet - Coin Flip</title>
+  <script src="https://cdn.jsdelivr.net/npm/ethers@5.7.2/dist/ethers.umd.min.js"></script>
+  <style>
+    body { font-family: Arial, sans-serif; max-width:700px; margin:40px auto; line-height:1.5; }
+    input, select, button { padding:8px; margin:6px 0; }
+    .status { background:#f4f4f4; padding:10px; border-radius:6px; }
+  </style>
+</head>
+<body>
+  <h1>Zenchain Testnet — Coin Flip (Demo)</h1>
+  <p><strong>Note:</strong> This demo uses insecure randomness and is only for testnet learning.</p>
+
+  <div>
+    <button id="connectBtn">Connect Wallet</button>
+    <span id="addr"></span>
+  </div>
+
+  <div style="margin-top:20px;">
+    <label>Bet amount (in ZTC): </label><br/>
+    <input id="betAmount" type="number" step='0.01' value="0.01" />
+    <select id="guess">
+      <option value="true">Heads</option>
+      <option value="false">Tails</option>
+    </select>
+    <button id="flipBtn">Flip Coin</button>
+  </div>
+
+  <div style="margin-top:20px;" class="status">
+    <div id="status">Not connected.</div>
+    <div id="tx"></div>
+  </div>
+
+<script>
+const contractAddress = "0x3efE052Bb8c2Aa524A4cF59F2D0387A89542e084";
+const abi = [
+  "function flip(bool _guess) public payable",
+  "event BetPlaced(address indexed player, uint256 amount, bool guess, bool win, uint256 payout)"
+];
+
+let provider, signer, contract;
+
+async function connectWallet(){
+  if (!window.ethereum) {
+    alert('Install MetaMask or similar wallet');
+    return;
+  }
+  provider = new ethers.providers.Web3Provider(window.ethereum);
+  await provider.send('eth_requestAccounts', []);
+  signer = provider.getSigner();
+  const addr = await signer.getAddress();
+  document.getElementById('addr').innerText = addr;
+  contract = new ethers.Contract(contractAddress, abi, signer);
+  document.getElementById('status').innerText = 'Wallet connected.';
+  listenEvents();
+}
+
+async function placeBet(){
+  if (!contract) { alert('Connect wallet first'); return; }
+  const amount = document.getElementById('betAmount').value;
+  const guess = document.getElementById('guess').value === 'true';
+  if (Number(amount) <= 0) { alert('Enter bet amount'); return; }
+
+  // Convert ZTC amount to wei-like (assumes 18 decimals)
+  const value = ethers.utils.parseEther(String(amount));
+  try {
+    document.getElementById('status').innerText = 'Sending transaction...';
+    const tx = await contract.flip(guess, { value });
+    document.getElementById('tx').innerText = 'Tx hash: ' + tx.hash;
+    await tx.wait();
+    document.getElementById('status').innerText = 'Transaction mined. Check events for result.';
+  } catch (err) {
+    console.error(err);
+    document.getElementById('status').innerText = 'Transaction failed: ' + (err.message || err);
+  }
+}
+
+function listenEvents(){
+  contract.on('BetPlaced', (player, amount, guess, win, payout, event) => {
+    const a = ethers.utils.formatEther(amount);
+    const p = ethers.utils.formatEther(payout || 0);
+
+    if (player.toLowerCase() === signer.getAddress().then(addr => addr.toLowerCase())) {
+      if (win) {
+        alert('🎉 You won! Payout: ${p} ZTC');
+      } else {
+        alert('😢 You lost. Bet amount: ${a} ZTC');
+      }
+    }
+
+    document.getElementById('status').innerText =
+      'Bet by ${player} for ${a} ZTC — Guess: ${guess} — Win: ${win} — Payout: ${p} ZTC';
+  });
+}
+
+document.getElementById('connectBtn').addEventListener('click', connectWallet);
+document.getElementById('flipBtn').addEventListener('click', placeBet);
+</script>
+</body>
+</html>
