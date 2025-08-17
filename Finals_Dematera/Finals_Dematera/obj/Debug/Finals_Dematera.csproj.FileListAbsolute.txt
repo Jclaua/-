@@ -1,0 +1,99 @@
+C:\Users\monst\source\repos\Finals_Galido\Finals_Galido\bin\Debug\Finals_Galido.exe.config
+C:\Users\monst\source\repos\Finals_Galido\Finals_Galido\bin\Debug\Finals_Galido.exe
+C:\Users\monst\source\repos\Finals_Galido\Finals_Galido\bin\Debug\Finals_Galido.pdb
+C:\Users\monst\source\repos\Finals_Galido\Finals_Galido\obj\Debug\Finals_Galido.csproj.AssemblyReference.cache
+C:\Users\monst\source\repos\Finals_Galido\Finals_Galido\obj\Debug\Finals_Galido.Form1.resources
+C:\Users\monst\source\repos\Finals_Galido\Finals_Galido\obj\Debug\Finals_Galido.Properties.Resources.resources
+C:\Users\monst\source\repos\Finals_Galido\Finals_Galido\obj\Debug\Finals_Galido.csproj.GenerateResource.cache
+C:\Users\monst\source\repos\Finals_Galido\Finals_Galido\obj\Debug\Finals_Galido.csproj.CoreCompileInputs.cache
+C:\Users\monst\source\repos\Finals_Galido\Finals_Galido\obj\Debug\Finals_Galido.exe
+C:\Users\monst\source\repos\Finals_Galido\Finals_Galido\obj\Debug\Finals_Galido.pdb
+C:\Users\monst\source\repos\Finals_Galido\Finals_Galido\obj\Debug\Finals_Galido.Form2.resources
+C:\Users\monst\source\repos\Finals_Galido\Finals_Galido\bin\Debug\MySql.Data.dll
+C:\Users\monst\source\repos\Finals_Galido\Finals_Galido\bin\Debug\System.Memory.dll
+C:\Users\monst\source\repos\Finals_Galido\Finals_Galido\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\monst\source\repos\Finals_Galido\Finals_Galido\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\monst\source\repos\Finals_Galido\Finals_Galido\bin\Debug\System.Buffers.dll
+C:\Users\monst\source\repos\Finals_Galido\Finals_Galido\obj\Debug\Finals_Galido.csproj.CopyComplete
+C:\Users\monst\OneDrive\Desktop\School\AppDev\Finals_Galido\Finals_Galido\bin\Debug\Finals_Galido.exe.config
+C:\Users\monst\OneDrive\Desktop\School\AppDev\Finals_Galido\Finals_Galido\bin\Debug\Finals_Galido.exe
+C:\Users\monst\OneDrive\Desktop\School\AppDev\Finals_Galido\Finals_Galido\bin\Debug\Finals_Galido.pdb
+C:\Users\monst\OneDrive\Desktop\School\AppDev\Finals_Galido\Finals_Galido\bin\Debug\System.Memory.dll
+C:\Users\monst\OneDrive\Desktop\School\AppDev\Finals_Galido\Finals_Galido\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\monst\OneDrive\Desktop\School\AppDev\Finals_Galido\Finals_Galido\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\monst\OneDrive\Desktop\School\AppDev\Finals_Galido\Finals_Galido\bin\Debug\System.Buffers.dll
+C:\Users\monst\OneDrive\Desktop\School\AppDev\Finals_Galido\Finals_Galido\obj\Debug\Finals_Galido.csproj.AssemblyReference.cache
+C:\Users\monst\OneDrive\Desktop\School\AppDev\Finals_Galido\Finals_Galido\obj\Debug\Finals_Galido.Form1.resources
+C:\Users\monst\OneDrive\Desktop\School\AppDev\Finals_Galido\Finals_Galido\obj\Debug\Finals_Galido.Form2.resources
+C:\Users\monst\OneDrive\Desktop\School\AppDev\Finals_Galido\Finals_Galido\obj\Debug\Finals_Galido.Properties.Resources.resources
+C:\Users\monst\OneDrive\Desktop\School\AppDev\Finals_Galido\Finals_Galido\obj\Debug\Finals_Galido.csproj.GenerateResource.cache
+C:\Users\monst\OneDrive\Desktop\School\AppDev\Finals_Galido\Finals_Galido\obj\Debug\Finals_Galido.csproj.CoreCompileInputs.cache
+C:\Users\monst\OneDrive\Desktop\School\AppDev\Finals_Galido\Finals_Galido\obj\Debug\Finals_Galido.csproj.CopyComplete
+C:\Users\monst\OneDrive\Desktop\School\AppDev\Finals_Galido\Finals_Galido\obj\Debug\Finals_Galido.exe
+C:\Users\monst\OneDrive\Desktop\School\AppDev\Finals_Galido\Finals_Galido\obj\Debug\Finals_Galido.pdb
+C:\Users\ecodev\Downloads\Finals_Garcia\Finals_Garcia\bin\Debug\Finals_Garcia.exe.config
+C:\Users\ecodev\Downloads\Finals_Garcia\Finals_Garcia\bin\Debug\Finals_Garcia.exe
+C:\Users\ecodev\Downloads\Finals_Garcia\Finals_Garcia\bin\Debug\Finals_Garcia.pdb
+C:\Users\ecodev\Downloads\Finals_Garcia\Finals_Garcia\bin\Debug\System.Memory.dll
+C:\Users\ecodev\Downloads\Finals_Garcia\Finals_Garcia\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\ecodev\Downloads\Finals_Garcia\Finals_Garcia\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\ecodev\Downloads\Finals_Garcia\Finals_Garcia\bin\Debug\System.Buffers.dll
+C:\Users\ecodev\Downloads\Finals_Garcia\Finals_Garcia\obj\Debug\Finals_Garcia.csproj.AssemblyReference.cache
+C:\Users\ecodev\Downloads\Finals_Garcia\Finals_Garcia\obj\Debug\Finals_Garcia.Form1.resources
+C:\Users\ecodev\Downloads\Finals_Garcia\Finals_Garcia\obj\Debug\Finals_Garcia.Form2.resources
+C:\Users\ecodev\Downloads\Finals_Garcia\Finals_Garcia\obj\Debug\Finals_Garcia.Properties.Resources.resources
+C:\Users\ecodev\Downloads\Finals_Garcia\Finals_Garcia\obj\Debug\Finals_Garcia.csproj.GenerateResource.cache
+C:\Users\ecodev\Downloads\Finals_Garcia\Finals_Garcia\obj\Debug\Finals_Garcia.csproj.CoreCompileInputs.cache
+C:\Users\ecodev\Downloads\Finals_Garcia\Finals_Garcia\obj\Debug\Finals_Garcia.csproj.CopyComplete
+C:\Users\ecodev\Downloads\Finals_Garcia\Finals_Garcia\obj\Debug\Finals_Garcia.exe
+C:\Users\ecodev\Downloads\Finals_Garcia\Finals_Garcia\obj\Debug\Finals_Garcia.pdb
+C:\Users\ecodev\Downloads\Finals_Dematera - Copy\Finals_Dematera\bin\Debug\Finals_Dematera.exe.config
+C:\Users\ecodev\Downloads\Finals_Dematera - Copy\Finals_Dematera\bin\Debug\Finals_Dematera.exe
+C:\Users\ecodev\Downloads\Finals_Dematera - Copy\Finals_Dematera\bin\Debug\Finals_Dematera.pdb
+C:\Users\ecodev\Downloads\Finals_Dematera - Copy\Finals_Dematera\bin\Debug\System.Memory.dll
+C:\Users\ecodev\Downloads\Finals_Dematera - Copy\Finals_Dematera\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\ecodev\Downloads\Finals_Dematera - Copy\Finals_Dematera\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\ecodev\Downloads\Finals_Dematera - Copy\Finals_Dematera\bin\Debug\System.Buffers.dll
+C:\Users\ecodev\Downloads\Finals_Dematera - Copy\Finals_Dematera\obj\Debug\Finals_Dematera.csproj.AssemblyReference.cache
+C:\Users\ecodev\Downloads\Finals_Dematera - Copy\Finals_Dematera\obj\Debug\Finals_Dematera.Form1.resources
+C:\Users\ecodev\Downloads\Finals_Dematera - Copy\Finals_Dematera\obj\Debug\Finals_Dematera.Form2.resources
+C:\Users\ecodev\Downloads\Finals_Dematera - Copy\Finals_Dematera\obj\Debug\Finals_Dematera.Properties.Resources.resources
+C:\Users\ecodev\Downloads\Finals_Dematera - Copy\Finals_Dematera\obj\Debug\Finals_Dematera.csproj.GenerateResource.cache
+C:\Users\ecodev\Downloads\Finals_Dematera - Copy\Finals_Dematera\obj\Debug\Finals_Dematera.csproj.CoreCompileInputs.cache
+C:\Users\ecodev\Downloads\Finals_Dematera - Copy\Finals_Dematera\obj\Debug\Finals_Dematera.csproj.CopyComplete
+C:\Users\ecodev\Downloads\Finals_Dematera - Copy\Finals_Dematera\obj\Debug\Finals_Dematera.exe
+C:\Users\ecodev\Downloads\Finals_Dematera - Copy\Finals_Dematera\obj\Debug\Finals_Dematera.pdb
+C:\Users\demat\OneDrive\Desktop\Finals_Dematera - Copy\Finals_Dematera\bin\Debug\Finals_Dematera.exe.config
+C:\Users\demat\OneDrive\Desktop\Finals_Dematera - Copy\Finals_Dematera\bin\Debug\Finals_Dematera.exe
+C:\Users\demat\OneDrive\Desktop\Finals_Dematera - Copy\Finals_Dematera\bin\Debug\Finals_Dematera.pdb
+C:\Users\demat\OneDrive\Desktop\Finals_Dematera - Copy\Finals_Dematera\bin\Debug\System.Memory.dll
+C:\Users\demat\OneDrive\Desktop\Finals_Dematera - Copy\Finals_Dematera\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\demat\OneDrive\Desktop\Finals_Dematera - Copy\Finals_Dematera\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\demat\OneDrive\Desktop\Finals_Dematera - Copy\Finals_Dematera\bin\Debug\System.Buffers.dll
+C:\Users\demat\OneDrive\Desktop\Finals_Dematera - Copy\Finals_Dematera\obj\Debug\Finals_Dematera.csproj.AssemblyReference.cache
+C:\Users\demat\OneDrive\Desktop\Finals_Dematera - Copy\Finals_Dematera\obj\Debug\Finals_Dematera.csproj.SuggestedBindingRedirects.cache
+C:\Users\demat\OneDrive\Desktop\Finals_Dematera - Copy\Finals_Dematera\obj\Debug\Finals_Dematera.Form1.resources
+C:\Users\demat\OneDrive\Desktop\Finals_Dematera - Copy\Finals_Dematera\obj\Debug\Finals_Dematera.Form2.resources
+C:\Users\demat\OneDrive\Desktop\Finals_Dematera - Copy\Finals_Dematera\obj\Debug\Finals_Dematera.Properties.Resources.resources
+C:\Users\demat\OneDrive\Desktop\Finals_Dematera - Copy\Finals_Dematera\obj\Debug\Finals_Dematera.csproj.GenerateResource.cache
+C:\Users\demat\OneDrive\Desktop\Finals_Dematera - Copy\Finals_Dematera\obj\Debug\Finals_Dematera.csproj.CoreCompileInputs.cache
+C:\Users\demat\OneDrive\Desktop\Finals_Dematera - Copy\Finals_Dematera\obj\Debug\Finals_Dematera.csproj.CopyComplete
+C:\Users\demat\OneDrive\Desktop\Finals_Dematera - Copy\Finals_Dematera\obj\Debug\Finals_Dematera.exe
+C:\Users\demat\OneDrive\Desktop\Finals_Dematera - Copy\Finals_Dematera\obj\Debug\Finals_Dematera.pdb
+C:\Users\demat\OneDrive\Desktop\Finals_Dematera\Finals_Dematera\bin\Debug\Finals_Dematera.exe.config
+C:\Users\demat\OneDrive\Desktop\Finals_Dematera\Finals_Dematera\bin\Debug\Finals_Dematera.exe
+C:\Users\demat\OneDrive\Desktop\Finals_Dematera\Finals_Dematera\bin\Debug\Finals_Dematera.pdb
+C:\Users\demat\OneDrive\Desktop\Finals_Dematera\Finals_Dematera\bin\Debug\System.Memory.dll
+C:\Users\demat\OneDrive\Desktop\Finals_Dematera\Finals_Dematera\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\demat\OneDrive\Desktop\Finals_Dematera\Finals_Dematera\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\demat\OneDrive\Desktop\Finals_Dematera\Finals_Dematera\bin\Debug\System.Buffers.dll
+C:\Users\demat\OneDrive\Desktop\Finals_Dematera\Finals_Dematera\obj\Debug\Finals_Dematera.csproj.AssemblyReference.cache
+C:\Users\demat\OneDrive\Desktop\Finals_Dematera\Finals_Dematera\obj\Debug\Finals_Dematera.csproj.SuggestedBindingRedirects.cache
+C:\Users\demat\OneDrive\Desktop\Finals_Dematera\Finals_Dematera\obj\Debug\Finals_Dematera.Form1.resources
+C:\Users\demat\OneDrive\Desktop\Finals_Dematera\Finals_Dematera\obj\Debug\Finals_Dematera.Form2.resources
+C:\Users\demat\OneDrive\Desktop\Finals_Dematera\Finals_Dematera\obj\Debug\Finals_Dematera.Properties.Resources.resources
+C:\Users\demat\OneDrive\Desktop\Finals_Dematera\Finals_Dematera\obj\Debug\Finals_Dematera.csproj.GenerateResource.cache
+C:\Users\demat\OneDrive\Desktop\Finals_Dematera\Finals_Dematera\obj\Debug\Finals_Dematera.csproj.CoreCompileInputs.cache
+C:\Users\demat\OneDrive\Desktop\Finals_Dematera\Finals_Dematera\obj\Debug\Finals_Dematera.csproj.CopyComplete
+C:\Users\demat\OneDrive\Desktop\Finals_Dematera\Finals_Dematera\obj\Debug\Finals_Dematera.exe
+C:\Users\demat\OneDrive\Desktop\Finals_Dematera\Finals_Dematera\obj\Debug\Finals_Dematera.pdb
